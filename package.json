@@ -1,0 +1,16 @@
+{
+  "name": "chucknorrisphrases",
+  "version": "1.0.0",
+  "description": "This repository contains a JavaScript program that consumes the Chuck Norris API and displays random jokes in the console. The application fetches a random joke from the API and displays it in the console when it is executed. It's a simple example of how to make requests to an API and process the data in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
